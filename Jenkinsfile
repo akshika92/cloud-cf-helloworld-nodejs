@@ -1,6 +1,5 @@
 @Library('piper-lib-os') _
-import static com.sap.piper.Prerequisites.checkScript
-import groovy.transform.Field
+
 
 node() {
    
